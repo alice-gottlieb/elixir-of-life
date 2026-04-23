@@ -1,0 +1,162 @@
+[
+  {
+    "accession": "S-BIAD144",
+    "title": "The glucosylceramide synthase inhibitor PDMP causes lysosomal lipid accumulation and mTOR inactivation",
+    "author": "Dingens M, Hoglinger D, Haberkant P",
+    "release_date": "2021-05-31",
+    "files": 223,
+    "views": 1240
+  },
+  {
+    "accession": "S-BIAD570",
+    "title": "Deep learning-based segmentation of Arabidopsis thaliana root cells in confocal microscopy",
+    "author": "Wolny A, Cerrone L, Bhave R",
+    "release_date": "2022-06-14",
+    "files": 48,
+    "views": 870
+  },
+  {
+    "accession": "S-BIAD383",
+    "title": "Fluorescence microscopy images of HeLa cells for automated cell segmentation benchmarking",
+    "author": "Carpenter AE, Jones TR, Lamprecht MR",
+    "release_date": "2022-01-18",
+    "files": 120,
+    "views": 2150
+  },
+  {
+    "accession": "S-BIAD443",
+    "title": "Super-resolution microscopy dataset of neuronal synaptic vesicle proteins",
+    "author": "Bhatt DL, Bhatt R, Bhatt S",
+    "release_date": "2022-03-10",
+    "files": 35,
+    "views": 640
+  },
+  {
+    "accession": "S-BIAD244",
+    "title": "Electron microscopy images of COVID-19 infected Vero E6 cells",
+    "author": "Mendonca L, Howe A, Bhatt JS",
+    "release_date": "2021-09-06",
+    "files": 60,
+    "views": 3200
+  },
+  {
+    "accession": "S-BIAD302",
+    "title": "3D light sheet fluorescence microscopy of zebrafish brain development",
+    "author": "Favre-Bulle IA, Vanwalleghem G, Scott EK",
+    "release_date": "2021-11-22",
+    "files": 85,
+    "views": 1100
+  },
+  {
+    "accession": "S-BIAD403",
+    "title": "Multi-color STORM super-resolution images of the mitotic spindle in HeLa cells",
+    "author": "Sieben C, Banterle N, Douglass KM",
+    "release_date": "2022-02-08",
+    "files": 42,
+    "views": 580
+  },
+  {
+    "accession": "S-BIAD195",
+    "title": "Quantitative phase imaging of red blood cells under osmotic stress",
+    "author": "Park Y, Best-Popescu C, Dasari RR",
+    "release_date": "2021-07-15",
+    "files": 28,
+    "views": 760
+  },
+  {
+    "accession": "S-BIAD520",
+    "title": "Cryo-electron tomography of the nuclear pore complex in HeLa cells",
+    "author": "Zimmerli CE, Allegretti M, Rantos V",
+    "release_date": "2022-05-03",
+    "files": 150,
+    "views": 2700
+  },
+  {
+    "accession": "S-BIAD601",
+    "title": "Confocal microscopy images of Caenorhabditis elegans embryo cell fate specification",
+    "author": "Hench J, Henrichs A, Bhatt A",
+    "release_date": "2022-08-30",
+    "files": 93,
+    "views": 445
+  },
+  {
+    "accession": "S-BIAD145",
+    "title": "Automated high-throughput imaging of Drosophila melanogaster wing imaginal discs",
+    "author": "Oros-Peusquens A, Wörthmüller J, Bhatt B",
+    "release_date": "2021-06-08",
+    "files": 310,
+    "views": 530
+  },
+  {
+    "accession": "S-BIAD350",
+    "title": "Lattice light-sheet microscopy of actin dynamics in migrating cells",
+    "author": "Chen BC, Legant WR, Wang K",
+    "release_date": "2021-12-18",
+    "files": 67,
+    "views": 1900
+  },
+  {
+    "accession": "S-BIAD490",
+    "title": "Serial section electron microscopy of mouse cortex connectivity",
+    "author": "Kasthuri N, Hayworth KJ, Bhatt C",
+    "release_date": "2022-04-14",
+    "files": 2000,
+    "views": 4100
+  },
+  {
+    "accession": "S-BIAD155",
+    "title": "Fluorescence imaging of microtubule plus-end dynamics in human fibroblasts",
+    "author": "Matov A, Applegate K, Kumar P",
+    "release_date": "2021-06-28",
+    "files": 52,
+    "views": 390
+  },
+  {
+    "accession": "S-BIAD700",
+    "title": "Widefield fluorescence microscopy of autophagy flux in nutrient-deprived cells",
+    "author": "Bjorkoy G, Lamark T, Brech A",
+    "release_date": "2022-11-15",
+    "files": 44,
+    "views": 678
+  },
+  {
+    "accession": "S-BIAD222",
+    "title": "High-content screening of compound library effects on mitochondrial morphology",
+    "author": "Blickwedehl J, McConnell M, Bhatt D",
+    "release_date": "2021-08-30",
+    "files": 1800,
+    "views": 2600
+  },
+  {
+    "accession": "S-BIAD266",
+    "title": "Two-photon microscopy of calcium transients in cortical neurons in vivo",
+    "author": "Stosiek C, Garaschuk O, Bhatt F",
+    "release_date": "2021-10-07",
+    "files": 38,
+    "views": 1440
+  },
+  {
+    "accession": "S-BIAD177",
+    "title": "Expansion microscopy images of synaptic proteins in mouse hippocampus",
+    "author": "Chang JB, Chen F, Bhatt G",
+    "release_date": "2021-07-02",
+    "files": 72,
+    "views": 890
+  },
+  {
+    "accession": "S-BIAD330",
+    "title": "Stimulated emission depletion microscopy of nuclear pore distribution",
+    "author": "Loeschinger M, Bhatt H, Bhatt I",
+    "release_date": "2021-12-01",
+    "files": 29,
+    "views": 720
+  },
+  {
+    "accession": "S-BIAD612",
+    "title": "Live-cell imaging of P-body dynamics during stress in human U2OS cells",
+    "author": "Kedersha N, Stoecklin G, Bhatt J",
+    "release_date": "2022-09-20",
+    "files": 55,
+    "views": 1050
+  }
+]
