@@ -1,0 +1,752 @@
+[
+  {
+    "molecule_chembl_id": "CHEMBL521",
+    "pref_name": "IBUPROFEN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C13H18O2",
+      "full_mwt": "206.28",
+      "alogp": "3.97",
+      "hbd": "1",
+      "hba": "1",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Inflammatory Agents",
+    "first_approval": 1974
+  },
+  {
+    "molecule_chembl_id": "CHEMBL25",
+    "pref_name": "ASPIRIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C9H8O4",
+      "full_mwt": "180.16",
+      "alogp": "1.31",
+      "hbd": "1",
+      "hba": "3",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Inflammatory Agents",
+    "first_approval": 1950
+  },
+  {
+    "molecule_chembl_id": "CHEMBL112",
+    "pref_name": "PARACETAMOL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C8H9NO2",
+      "full_mwt": "151.16",
+      "alogp": "0.49",
+      "hbd": "1",
+      "hba": "2",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Analgesics",
+    "first_approval": 1955
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1201585",
+    "pref_name": "ATORVASTATIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C33H35FN2O5",
+      "full_mwt": "558.64",
+      "alogp": "4.31",
+      "hbd": "3",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antilipemic Agents",
+    "first_approval": 1996
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1642",
+    "pref_name": "METFORMIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C4H11N5",
+      "full_mwt": "129.16",
+      "alogp": "-1.43",
+      "hbd": "3",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antidiabetic Agents",
+    "first_approval": 1994
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1200641",
+    "pref_name": "OMEPRAZOLE",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C17H19N3O3S",
+      "full_mwt": "345.42",
+      "alogp": "2.23",
+      "hbd": "1",
+      "hba": "4",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Ulcer Agents",
+    "first_approval": 1989
+  },
+  {
+    "molecule_chembl_id": "CHEMBL426",
+    "pref_name": "SIMVASTATIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C25H38O5",
+      "full_mwt": "418.57",
+      "alogp": "4.68",
+      "hbd": "1",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antilipemic Agents",
+    "first_approval": 1991
+  },
+  {
+    "molecule_chembl_id": "CHEMBL661",
+    "pref_name": "AMLODIPINE",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C20H25ClN2O5",
+      "full_mwt": "408.88",
+      "alogp": "3.1",
+      "hbd": "2",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1990
+  },
+  {
+    "molecule_chembl_id": "CHEMBL192",
+    "pref_name": "METOPROLOL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C15H25NO3",
+      "full_mwt": "267.36",
+      "alogp": "1.88",
+      "hbd": "2",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1978
+  },
+  {
+    "molecule_chembl_id": "CHEMBL703",
+    "pref_name": "RAMIPRIL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C23H32N2O5",
+      "full_mwt": "416.52",
+      "alogp": "1.44",
+      "hbd": "1",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1989
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1399",
+    "pref_name": "LOSARTAN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H23ClN6O",
+      "full_mwt": "422.92",
+      "alogp": "4.56",
+      "hbd": "1",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1995
+  },
+  {
+    "molecule_chembl_id": "CHEMBL6",
+    "pref_name": "ACETYLSALICYLIC ACID",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C9H8O4",
+      "full_mwt": "180.16",
+      "alogp": "1.31",
+      "hbd": "1",
+      "hba": "3",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Analgesics",
+    "first_approval": 1950
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1201579",
+    "pref_name": "CETIRIZINE",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C21H25ClN2O3",
+      "full_mwt": "388.89",
+      "alogp": "2.18",
+      "hbd": "1",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihistamines",
+    "first_approval": 1995
+  },
+  {
+    "molecule_chembl_id": "CHEMBL16",
+    "pref_name": "DIAZEPAM",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C16H13ClN2O",
+      "full_mwt": "284.74",
+      "alogp": "2.82",
+      "hbd": "0",
+      "hba": "2",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Tranquilizers",
+    "first_approval": 1963
+  },
+  {
+    "molecule_chembl_id": "CHEMBL703",
+    "pref_name": "WARFARIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C19H16O4",
+      "full_mwt": "308.33",
+      "alogp": "2.7",
+      "hbd": "0",
+      "hba": "4",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anticoagulants",
+    "first_approval": 1954
+  },
+  {
+    "molecule_chembl_id": "CHEMBL267014",
+    "pref_name": "FLUCONAZOLE",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C13H12F2N6O",
+      "full_mwt": "306.27",
+      "alogp": "0.5",
+      "hbd": "1",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antifungal Agents",
+    "first_approval": 1990
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1643",
+    "pref_name": "CIPROFLOXACIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C17H18FN3O3",
+      "full_mwt": "331.35",
+      "alogp": "0.28",
+      "hbd": "2",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Infective Agents",
+    "first_approval": 1987
+  },
+  {
+    "molecule_chembl_id": "CHEMBL374478",
+    "pref_name": "AZITHROMYCIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C38H72N2O12",
+      "full_mwt": "748.99",
+      "alogp": "4.02",
+      "hbd": "2",
+      "hba": "14",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Infective Agents",
+    "first_approval": 1991
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1444",
+    "pref_name": "AMOXICILLIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C16H19N3O5S",
+      "full_mwt": "365.4",
+      "alogp": "-0.87",
+      "hbd": "2",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Infective Agents",
+    "first_approval": 1974
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1231",
+    "pref_name": "ENALAPRIL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C20H28N2O5",
+      "full_mwt": "376.45",
+      "alogp": "0.11",
+      "hbd": "1",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1985
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1285",
+    "pref_name": "LISINOPRIL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C21H31N3O5",
+      "full_mwt": "405.5",
+      "alogp": "-0.75",
+      "hbd": "3",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1987
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1289926",
+    "pref_name": "ROSUVASTATIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H28FN3O6S",
+      "full_mwt": "481.54",
+      "alogp": "0.21",
+      "hbd": "2",
+      "hba": "9",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antilipemic Agents",
+    "first_approval": 2003
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1082",
+    "pref_name": "ALBUTEROL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C13H21NO3",
+      "full_mwt": "239.31",
+      "alogp": "0.64",
+      "hbd": "2",
+      "hba": "4",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Bronchodilators",
+    "first_approval": 1969
+  },
+  {
+    "molecule_chembl_id": "CHEMBL727",
+    "pref_name": "METHOTREXATE",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C20H22N8O5",
+      "full_mwt": "454.44",
+      "alogp": "-1.85",
+      "hbd": "5",
+      "hba": "11",
+      "num_ro5_violations": "1"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 1953
+  },
+  {
+    "molecule_chembl_id": "CHEMBL3989520",
+    "pref_name": "GEFITINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H24ClFN4O3",
+      "full_mwt": "446.9",
+      "alogp": "3.2",
+      "hbd": "1",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2003
+  },
+  {
+    "molecule_chembl_id": "CHEMBL939",
+    "pref_name": "ERLOTINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H23N3O4",
+      "full_mwt": "393.44",
+      "alogp": "2.49",
+      "hbd": "1",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2004
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1173655",
+    "pref_name": "LAPATINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C29H26ClFN4O4S",
+      "full_mwt": "581.06",
+      "alogp": "4.82",
+      "hbd": "1",
+      "hba": "8",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2007
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1940",
+    "pref_name": "IMATINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C29H31N7O",
+      "full_mwt": "493.6",
+      "alogp": "3.74",
+      "hbd": "2",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2001
+  },
+  {
+    "molecule_chembl_id": "CHEMBL1421",
+    "pref_name": "TAMOXIFEN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C26H29NO",
+      "full_mwt": "371.51",
+      "alogp": "6.31",
+      "hbd": "0",
+      "hba": "1",
+      "num_ro5_violations": "1"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 1977
+  },
+  {
+    "molecule_chembl_id": "CHEMBL254776",
+    "pref_name": "TRASTUZUMAB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": null,
+      "full_mwt": null,
+      "alogp": null,
+      "hbd": null,
+      "hba": null,
+      "num_ro5_violations": null
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2008
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9000",
+    "pref_name": "APIXABAN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C25H25N5O4",
+      "full_mwt": "459.51",
+      "alogp": "1.31",
+      "hbd": "2",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anticoagulants",
+    "first_approval": 2012
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9001",
+    "pref_name": "DABIGATRAN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C25H25N7O3",
+      "full_mwt": "471.52",
+      "alogp": "-0.04",
+      "hbd": "2",
+      "hba": "8",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anticoagulants",
+    "first_approval": 2010
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9002",
+    "pref_name": "RIVAROXABAN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C19H18ClN3O5S",
+      "full_mwt": "435.88",
+      "alogp": "1.71",
+      "hbd": "1",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anticoagulants",
+    "first_approval": 2011
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9003",
+    "pref_name": "EMPAGLIFLOZIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C23H27ClO7",
+      "full_mwt": "450.91",
+      "alogp": "-0.14",
+      "hbd": "4",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antidiabetic Agents",
+    "first_approval": 2014
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9004",
+    "pref_name": "SORAFENIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C21H16ClF3N4O3",
+      "full_mwt": "464.83",
+      "alogp": "3.79",
+      "hbd": "2",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2005
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9005",
+    "pref_name": "SUNITINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H27FN4O2",
+      "full_mwt": "398.48",
+      "alogp": "2.86",
+      "hbd": "2",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2006
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9006",
+    "pref_name": "VEMURAFENIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C23H18ClF2N3O3S",
+      "full_mwt": "489.93",
+      "alogp": "4.06",
+      "hbd": "1",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2011
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9007",
+    "pref_name": "CRIZOTINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C21H22Cl2FN5O",
+      "full_mwt": "450.34",
+      "alogp": "2.47",
+      "hbd": "1",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2011
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9008",
+    "pref_name": "HYDROXYCHLOROQUINE",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C18H26ClN3O",
+      "full_mwt": "335.88",
+      "alogp": "3.94",
+      "hbd": "1",
+      "hba": "4",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antiprotozoal Agents",
+    "first_approval": 1955
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9009",
+    "pref_name": "CLARITHROMYCIN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C38H69NO13",
+      "full_mwt": "747.96",
+      "alogp": "3.16",
+      "hbd": "3",
+      "hba": "13",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Infective Agents",
+    "first_approval": 1991
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9010",
+    "pref_name": "DOXYCYCLINE",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H24N2O8",
+      "full_mwt": "444.44",
+      "alogp": "-0.87",
+      "hbd": "6",
+      "hba": "10",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Infective Agents",
+    "first_approval": 1967
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9011",
+    "pref_name": "SILDENAFIL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H30N6O4S",
+      "full_mwt": "474.58",
+      "alogp": "1.92",
+      "hbd": "1",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Vasodilators",
+    "first_approval": 1998
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9012",
+    "pref_name": "VALSARTAN",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C24H29N5O3",
+      "full_mwt": "435.52",
+      "alogp": "3.63",
+      "hbd": "2",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1996
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9013",
+    "pref_name": "BISOPROLOL",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C18H31NO4",
+      "full_mwt": "325.44",
+      "alogp": "1.87",
+      "hbd": "2",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antihypertensive Agents",
+    "first_approval": 1992
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9014",
+    "pref_name": "APREMILAST",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C22H24N2O7S",
+      "full_mwt": "492.5",
+      "alogp": "1.43",
+      "hbd": "1",
+      "hba": "8",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Anti-Inflammatory Agents",
+    "first_approval": 2014
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9015",
+    "pref_name": "IBRUTINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C25H24N6O2",
+      "full_mwt": "440.5",
+      "alogp": "3.41",
+      "hbd": "2",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2013
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9016",
+    "pref_name": "RUXOLITINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C17H18N6",
+      "full_mwt": "306.37",
+      "alogp": "2.2",
+      "hbd": "2",
+      "hba": "5",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2011
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9017",
+    "pref_name": "OLAPARIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C24H23FN4O3",
+      "full_mwt": "434.46",
+      "alogp": "1.45",
+      "hbd": "2",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2014
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9018",
+    "pref_name": "OSIMERTINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C28H33N7O2",
+      "full_mwt": "499.62",
+      "alogp": "3.2",
+      "hbd": "2",
+      "hba": "7",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2015
+  },
+  {
+    "molecule_chembl_id": "CHEMBL9019",
+    "pref_name": "ALECTINIB",
+    "max_phase": 4,
+    "molecule_properties": {
+      "full_molformula": "C30H34N4O2",
+      "full_mwt": "482.62",
+      "alogp": "4.33",
+      "hbd": "2",
+      "hba": "6",
+      "num_ro5_violations": "0"
+    },
+    "indication_class": "Antineoplastic Agents",
+    "first_approval": 2015
+  }
+]
