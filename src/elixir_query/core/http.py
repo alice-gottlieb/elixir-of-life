@@ -17,13 +17,22 @@ from tenacity import (
     wait_exponential,
 )
 
-from elixir_query import __version__
 from elixir_query.errors import UpstreamError
 
 log = logging.getLogger(__name__)
 
+
+def _package_version() -> str:
+    try:
+        from importlib.metadata import version
+
+        return version("elixir-query")
+    except Exception:  # pragma: no cover - best-effort
+        return "0.0.0"
+
+
 _DEFAULT_UA = (
-    f"elixir-query/{__version__} "
+    f"elixir-query/{_package_version()} "
     "(https://github.com/alice-gottlieb/elixir-of-life)"
 )
 
