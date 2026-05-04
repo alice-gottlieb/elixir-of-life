@@ -11,7 +11,6 @@ import pytest
 
 import elixir_query as eq
 
-
 pytestmark = pytest.mark.live
 
 

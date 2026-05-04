@@ -12,14 +12,13 @@ REST base: https://reactome.org/ContentService
 
 from __future__ import annotations
 
-import io
 import json as _json
 from typing import Any
 
 import polars as pl
 
 from elixir_query.core.base import AdapterMeta, BaseAdapter
-from elixir_query.core.io import records_to_df, read_tsv
+from elixir_query.core.io import read_tsv, records_to_df
 from elixir_query.errors import ParseError
 from elixir_query.registry import register
 

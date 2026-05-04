@@ -32,9 +32,9 @@ class AdapterMeta:
 class ElixirContext:
     """Shared resources handed to every adapter: HTTP client, cache, credentials."""
 
-    http: "HttpClient"
-    cache: "Cache"
-    credentials: "CredentialStore"
+    http: HttpClient
+    cache: Cache
+    credentials: CredentialStore
 
 
 class BaseAdapter(ABC):

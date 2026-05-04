@@ -12,10 +12,10 @@ if TYPE_CHECKING:
     from elixir_query.core.base import BaseAdapter
 
 
-_REGISTRY: dict[str, type["BaseAdapter"]] = {}
+_REGISTRY: dict[str, type[BaseAdapter]] = {}
 
 
-def register(adapter_cls: type["BaseAdapter"]) -> type["BaseAdapter"]:
+def register(adapter_cls: type[BaseAdapter]) -> type[BaseAdapter]:
     """Class decorator: register ``adapter_cls`` under its canonical name and aliases.
 
     Raises ValueError if the canonical name or any alias is already taken.
@@ -33,7 +33,7 @@ def register(adapter_cls: type["BaseAdapter"]) -> type["BaseAdapter"]:
     return adapter_cls
 
 
-def resolve(name: str) -> type["BaseAdapter"]:
+def resolve(name: str) -> type[BaseAdapter]:
     """Return the adapter class for ``name``. Raises UnknownDatabaseError on miss."""
     key = name.lower().strip()
     if key in _REGISTRY:
@@ -50,10 +50,10 @@ def list_names() -> list[str]:
     return sorted({cls.meta.name for cls in _REGISTRY.values()})
 
 
-def all_adapters() -> list[type["BaseAdapter"]]:
+def all_adapters() -> list[type[BaseAdapter]]:
     """Return every registered adapter class (unique)."""
     seen: set[int] = set()
-    out: list[type["BaseAdapter"]] = []
+    out: list[type[BaseAdapter]] = []
     for cls in _REGISTRY.values():
         if id(cls) not in seen:
             seen.add(id(cls))

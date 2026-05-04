@@ -6,7 +6,7 @@ import polars as pl
 import pytest
 
 from elixir_query import registry
-from elixir_query.core.base import AdapterMeta, BaseAdapter, ElixirContext
+from elixir_query.core.base import AdapterMeta, BaseAdapter
 from elixir_query.errors import UnknownDatabaseError
 
 

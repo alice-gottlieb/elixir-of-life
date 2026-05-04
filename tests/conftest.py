@@ -7,7 +7,6 @@ tests MUST hit real endpoints and may not use mocks or synthetic fixture data.
 
 from __future__ import annotations
 
-import os
 from pathlib import Path
 
 import pytest

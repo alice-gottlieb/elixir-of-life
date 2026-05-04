@@ -16,7 +16,6 @@ import pytest
 import elixir_query as eq
 from elixir_query.errors import MissingCredentialError
 
-
 STUBS = [
     # (db_name, env_var_name, signup_url_substring)
     ("ega", "ELIXIR_EGA_API_KEY", "ega-archive.org"),
