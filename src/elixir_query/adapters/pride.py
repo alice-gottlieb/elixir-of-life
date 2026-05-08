@@ -135,16 +135,21 @@ class PRIDEAdapter(BaseAdapter):
         while next_url:
             resp = self.ctx.http.get(next_url, params=next_params, headers=_JSON_HEADERS, db="pride")
             data = resp.json()
-            if not isinstance(data, dict):
+            # Files endpoint returns a bare list; project search returns a HAL-wrapped dict.
+            if isinstance(data, list):
+                records = data
+                next_url = None
+            elif isinstance(data, dict):
+                records = (data.get("_embedded") or {}).get(embedded_key) or []
+                next_url = _hal_next(data)
+            else:
                 raise ParseError("pride", f"unexpected response: {type(data).__name__}")
-            records = (data.get("_embedded") or {}).get(embedded_key) or []
             for r in records:
                 rows.append(_flatten(r))
                 if limit is not None and len(rows) >= limit:
                     break
             if limit is not None and len(rows) >= limit:
                 break
-            next_url = _hal_next(data)
             next_params = None
         if not rows:
             raise ParseError("pride", f"no rows returned for {embedded_key}")
